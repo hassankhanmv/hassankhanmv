@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/hassankhanw3" target="blank"><img src="https://img.shields.io/twitter/follow/hassankhanw3?logo=twitter&style=for-the-badge" alt="hassankhanw3" /></a> </p>
 
-- 🔭 I’m currently working on **NextAuth Project**
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Mobile Apps Projects**
